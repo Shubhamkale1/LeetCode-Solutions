@@ -2,7 +2,7 @@ package recursion;
 
 public class Fibo {
     public static void main(String[] args) {
-        int n = 50;
+        int n = 4;
         int ans = fibo(n);
         System.out.println(ans);
     }
