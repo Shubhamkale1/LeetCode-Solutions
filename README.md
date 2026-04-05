@@ -1,30 +1,34 @@
-## 👨‍💻 Author
  
-- **Name:** Shubham Kale
-- **LeetCode:** [(https://leetcode.com/shubham_96k)](https://leetcode.com/shubham_96k)  
-- **LinkedIn:** [[your-linkedin](https://linkedin.com/in/kale-shubham)]([https://linkedin.com/in/kale-shubham](https://www.linkedin.com/in/kale-shubham/))  
-- **GitHub:** [your-github](https://github.com/Shubhamkale1)
- 
+# 👨‍💻 Shubham Kale
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-shubham__96k-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shubham_96k)\
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kale--shubham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kale-shubham/)\
+[![GitHub](https://img.shields.io/badge/GitHub-Shubhamkale1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamkale1)
+
 ---
- 
-## 📊 Progress Tracker
- 
+
+## 📊 LeetCode Stats
+![Shubham's LeetCode Stats](https://leetcard.jacoblin.cool/shubham_96k?theme=dark&font=Recursive&ext=activity)
+
+
+<details>
+<summary>📊 Click to view my Solved Problems Count</summary>
+
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 60+    |
-| 🟡 Medium  | 70+    |
-| 🔴 Hard    | 20+    |
-| **Total**  | **150+** |
+| 🟢 Easy    | 69+    |
+| 🟡 Medium  | 65+    |
+| 🔴 Hard    | 5+     |
+| **Total** | **139+** |
+
+</details>
 
 ---
 
 ## 🗂️ Folder Structure
- 
-```
+
+```text
 LeetCode-Solutions/
-│
-├── README.md
-│
 ├── Arrays/
 ├── Strings/
 ├── BinarySearch/
@@ -35,7 +39,6 @@ LeetCode-Solutions/
 ├── StackQueue/
 ├── SlidingWindow/
 └── TwoPointers/
-```
  
 ---
 
