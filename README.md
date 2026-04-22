@@ -76,3 +76,15 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
  
 > *"The more problems you solve, the more patterns you see."*
  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+<!---LeetCode Topics End-->
