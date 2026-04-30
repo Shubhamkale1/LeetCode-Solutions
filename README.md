@@ -85,6 +85,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | [0015-3sum](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0152-maximum-product-subarray](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0643-maximum-average-subarray-i](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 ## Dynamic Programming
 |  |
@@ -116,4 +117,8 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
