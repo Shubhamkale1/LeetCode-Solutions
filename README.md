@@ -96,6 +96,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | ------- |
 | [0015-3sum](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0443-string-compression](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +129,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0443-string-compression](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0443-string-compression) |
 ## Bit Manipulation
 |  |
 | ------- |
