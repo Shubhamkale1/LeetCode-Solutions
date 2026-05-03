@@ -87,10 +87,12 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | [0152-maximum-product-subarray](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## String
 |  |
 | ------- |
