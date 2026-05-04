@@ -89,6 +89,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | [0643-maximum-average-subarray-i](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0706-design-hashmap](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
