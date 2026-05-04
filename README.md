@@ -85,6 +85,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | [0015-3sum](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0152-maximum-product-subarray](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -126,6 +127,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## String
@@ -141,4 +143,12 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
