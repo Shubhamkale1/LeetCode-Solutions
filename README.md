@@ -110,6 +110,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0706-design-hashmap](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Linked List
@@ -130,12 +131,14 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## String
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0443-string-compression) |
 ## Bit Manipulation
 |  |
