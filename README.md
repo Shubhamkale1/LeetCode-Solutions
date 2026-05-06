@@ -89,6 +89,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | [0643-maximum-average-subarray-i](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1861-rotating-the-box](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -101,6 +102,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | [0015-3sum](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0443-string-compression](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [1861-rotating-the-box](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 ## Sorting
 |  |
 | ------- |
@@ -156,4 +158,8 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [1861-rotating-the-box](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 <!---LeetCode Topics End-->
