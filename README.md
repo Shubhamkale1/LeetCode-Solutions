@@ -90,6 +90,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | [0706-design-hashmap](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1861-rotating-the-box](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/3660-jump-game-ix) |
@@ -166,6 +167,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 |  |
 | ------- |
 | [1861-rotating-the-box](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -178,4 +180,8 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Simulation
+|  |
+| ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 <!---LeetCode Topics End-->
