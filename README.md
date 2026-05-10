@@ -92,6 +92,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | [1861-rotating-the-box](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/3660-jump-game-ix) |
 ## Dynamic Programming
@@ -99,6 +100,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/3660-jump-game-ix) |
 ## Two Pointers
 |  |
