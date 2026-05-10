@@ -1,36 +1,18 @@
 class Solution {
-    private Integer[] memo;
-    private int[] nums;
-    private int n;
-    private int target;
-    
     public int maximumJumps(int[] nums, int target) {
-        this.nums = nums;
-        this.n = nums.length;
-        this.target = target;
-        this.memo = new Integer[n];
+        int n = nums.length;
+        int[] dp = new int[n];
+        Arrays.fill(dp, -1);
+        dp[0] = 0;
         
-        int result = dfs(0);
-        return result < 0 ? -1 : result;
-    }
-
-    private int dfs(int i) {
-        if (i == n - 1) {
-            return 0;
-        }
-        
-        if (memo[i] != null) {
-            return memo[i];
-        }
-        
-        int maxJumps = -(1 << 30);
-        for (int j = i + 1; j < n; j++) {
-            if (Math.abs(nums[i] - nums[j]) <= target) {
-                maxJumps = Math.max(maxJumps, 1 + dfs(j));
+        for (int j = 1; j < n; ++j) {  
+            for (int i = 0; i < j; ++i) {  
+                if (dp[i] != -1 && Math.abs(nums[j] - nums[i]) <= target) {
+                    dp[j] = Math.max(dp[j], dp[i] + 1);  
+                }
             }
         }
         
-        memo[i] = maxJumps;
-        return maxJumps;
+        return dp[n - 1];
     }
 }
