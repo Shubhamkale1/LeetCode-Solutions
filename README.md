@@ -129,6 +129,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0706-design-hashmap](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -186,4 +187,8 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 |  |
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
