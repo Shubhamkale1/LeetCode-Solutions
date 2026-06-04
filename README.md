@@ -114,12 +114,14 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | ------- |
 | [0015-3sum](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0018-4sum) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Hash Table
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0706-design-hashmap](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Linked List
@@ -150,6 +152,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | [0187-repeated-dna-sequences](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -191,4 +194,8 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0155-min-stack) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
