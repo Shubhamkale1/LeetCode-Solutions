@@ -92,6 +92,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | [1861-rotating-the-box](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/3660-jump-game-ix) |
@@ -123,6 +124,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | [0706-design-hashmap](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Linked List
 |  |
@@ -174,6 +176,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 | ------- |
 | [1861-rotating-the-box](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Math
 |  |
 | ------- |
@@ -190,6 +193,7 @@ Give this repo a **star** ⭐ — it motivates me to keep solving and uploading!
 |  |
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/Shubhamkale1/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Stack
 |  |
 | ------- |
